@@ -9,4 +9,7 @@ fn main(){
 
 *this is edit by Source-Tree and Typora.*
 
-edit in branch
+
+edit in branch 
+
+solve the conflict
